@@ -12,7 +12,7 @@ apliqué las etiquetas aprendidas hasta la fecha.
 
 
 
-![](./images/rodcode.JPG)
+![](./image/rodcode.JPG)
 
 ## Autor
 
