@@ -16,4 +16,4 @@ apliqué las etiquetas aprendidas hasta la fecha.
 
 ## Autor
 
-- [Rodolfo Antonio Rodríguez Quintero](https://www.your-site.com)
+- Rodolfo Antonio Rodríguez Quintero
